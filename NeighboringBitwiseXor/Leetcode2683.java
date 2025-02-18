@@ -1,3 +1,5 @@
+package NeighboringBitwiseXor;
+
 import java.util.Arrays;
 
 public class Leetcode2683 {
